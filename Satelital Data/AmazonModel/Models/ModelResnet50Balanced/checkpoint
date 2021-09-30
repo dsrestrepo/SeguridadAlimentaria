@@ -1,0 +1,2 @@
+model_checkpoint_path: "Resnet50_tf_batch32_NoPretrained_epoch50"
+all_model_checkpoint_paths: "Resnet50_tf_batch32_NoPretrained_epoch50"

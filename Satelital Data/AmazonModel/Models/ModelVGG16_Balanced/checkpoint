@@ -1,0 +1,2 @@
+model_checkpoint_path: "VGG16_tf_batch32_NoPretrained"
+all_model_checkpoint_paths: "VGG16_tf_batch32_NoPretrained"
