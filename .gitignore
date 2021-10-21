@@ -3,6 +3,8 @@ ENSIN/Datos/ANTROPOMETRIA.csv
 ENSIN/Datos/PTS_2.csv
 ENSIN/Datos/R24.csv
 
+Satelital Data/GoogleEarthEngine/patches_6bands/*
 Satelital Data/GoogleEarthEngine/patches/*
 Satelital Data/AmazonModel/AmazonDataset/*
+
 *data-00000-of-00001
